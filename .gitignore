@@ -5,3 +5,4 @@ zipped
 .DS_Store
 .idea
 itch
+.env
